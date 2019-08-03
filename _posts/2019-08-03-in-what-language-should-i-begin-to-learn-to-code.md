@@ -43,12 +43,10 @@ I think the most common answer, which is probably just true for a plurality of c
 CLI scripting is simple to install on your computer, because it comes pre-installed. There's no frustration with Integrated Development Environments, or issues downloading languages, or confusion with compilers and interpreters. Just find the program on your machine, open it up, and get to work! Furthermore, CLI scripting languages tend to have more simple syntaxes that emphasize the functionality of the code over its structure. The best way to observe this is to look at languages' "Hello, World" statements, which are traditionally the first programs written in a new language. [Java](https://introcs.cs.princeton.edu/java/11hello/HelloWorld.java.html)'s statement can exist only in a kind of object, inside a main method, by calling a function (println) that doesn't actually live inside the object or method.
 
 	public class HelloWorld {
-
-  	public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
-  	}
-
+  		public static void main(String[] args) {
+        	// Prints "Hello, World" to the terminal window.
+        	System.out.println("Hello, World");
+  		}
 	}
 	
 Python also requires a function call with a defined structure, though it dispenses with the need for a class or main method. Deviation from the method's structure in either Python or Java will produce an error, and the code will not work.
