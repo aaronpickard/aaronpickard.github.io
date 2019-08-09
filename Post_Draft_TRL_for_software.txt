@@ -1,0 +1,31 @@
+What would TRL for software look like?
+
+I saw this interesting tweet a while ago, and I haven’t been able to stop thinking about it. (embed the tweet here - https://twitter.com/tectonic/status/1158478812801224704?s=21 and use https://keitaito.com/blog/2017/01/20/embedding-tweets-in-github-pages.html to embed it )
+
+What would Technology Readiness Levels (TRLs) in the software world look like? 
+
+First, what is a TRL? It is a metric used by NASA to assess how well-developed a technology is. They even have a handy reference chart for it! (embed image, cite nasa - https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.htm). 
+
+The system works well for NASA, and for the Department of Defense. However, I do not think that the metric works particularly well for software outside of these two organizations (and supporting contractors), because the metric does not consider the cyclical nature of software development, as opposed to hardware products which are more frequently either one-offs, or several copies of the same design with no incremental improvement. FURTHERMORE, 
+
+NASA product development tends to take longer than commercial software development, which is more likely to be managed according to agile development principles. These principles enable products to succeed, or fail, much more quickly. While TRLs could work for software (which is a technology), it should be possible to create a more precise metric to assess the readiness of software, given how much more limited in scope “software” is than “technology.”
+
+Here is my vision for what Software Readiness Levels might look like. [present chart as table below]
+TRL/SRL | NASA | Commercial Software 
+1 | basic principle reported | software need identified 
+2 | tech concept or application formulated | data processing, control flow paths determined
+3 | proof of concept in lab | software product developed to point where code review is viable 
+4 | component validation in lab environment | unit testing
+5 | component validation in relevant environment | integration testing
+6 | system validation in relevant environment | feature acceptance testing
+7 | prototype demo in space | software release to development environment
+8 | flight qualification through test and demo | software release to operational environment
+9 | flight proven through successful ops | software performed nominally in operational context AND incremental update/maintenance release is at software TRL 1 (software is a cyclical process, code good enough that can be modified for next version instead of tossed)
+
+SRL 1 is that a need for a product is identified. This is as opposed to TRL 1, which is the reporting of a principle, because software development in the commercial sector seems to me to much more commonly apply existing technological frameworks in new contexts than introduce new contexts. So the TRL 1 definition does not work. What should replace it? In agile decelopment, everything is driven by the user’s needs, so it seems...logical...that the identification of a need is the first step in the readiness of a software product.
+
+SRL 2 is like TRL 2 in that both of them define what will be created later in the development pipeline. SRL 2, defined by understanding a product’s control flow and data processing path, is actually slightly more advanced than TRL 2, which seems to require ideation of an use for the technology.
+
+SRL 3 and TRL 3 are probably the most similar of the systems, as both represent, at least in my mind, the minimum work that needs to be done for a concept to be validated or rejected based on the technologies in ane nvironment as favorable to development as possible.
+
+SRL 4, SRL 5, and SRL 6 are roughly comparable to TRLs 4, 5, and 6. At this stage, a technology or a software product is undergoing tests of increasing rigor to ensure 
