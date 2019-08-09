@@ -26,6 +26,14 @@ SRL 1 is that a need for a product is identified. This is as opposed to TRL 1, w
 
 SRL 2 is like TRL 2 in that both of them define what will be created later in the development pipeline. SRL 2, defined by understanding a product’s control flow and data processing path, is actually slightly more advanced than TRL 2, which seems to require ideation of an use for the technology.
 
-SRL 3 and TRL 3 are probably the most similar of the systems, as both represent, at least in my mind, the minimum work that needs to be done for a concept to be validated or rejected based on the technologies in ane nvironment as favorable to development as possible.
+SRL 3 and TRL 3 are probably the most similar of the reference levels, as this point in both systems is the minimum work that needs to be done for a concept to be validated or rejected based on the technologies being used, in an environment as favorable to development as possible.
 
-SRL 4, SRL 5, and SRL 6 are roughly comparable to TRLs 4, 5, and 6. At this stage, a technology or a software product is undergoing tests of increasing rigor to ensure 
+SRL 4, SRL 5, and SRL 6 are roughly comparable to TRL 4, TRL5, and TRL 6, respectively. At this stage, a technology or a software product is undergoing tests of increasing rigor to ensure its ability to operate successfully. Somewhere in these SRLs is probably the “code freeze”, after which changes to the product are pushed to the next release.
+
+SRL 7 and SRL 8 correspond roughly to TRL 7 and TRL 8, respectively. This is the point where products start deploying. A prototype in space strikes me as corresponding roughly to a software deployment in a development environment. Similarly, a software product’s initial deployment in an operational environment performs essentially the same role as flight qualifying hardware through a demonstration. (insert graphic of “it worked in dev”)
+
+SRL 9, that a product is considered totally operational, varies from NASA’s definition of TRL 9. NASA demands successful operations. So does software, but that’s actually not enough. For software to be really operational, development progress must begin on a maintenance or upgrade product update. Why is this? First, this is the ultimate proof that a software product is “good enough” to peers and stakeholders - it is not being thrown out when new features are needed, but it is being built upon and expanded. Second, this emphasizes the cyclical nature of software development, as opposed to technology maturation. A software development cycle really ends at the beginning of the cycle to update or replace it, as opposed to a technology maturation process, which develops the technology, but is not inherrently cyclical. If the technology is improved, the cycle can be repeated, but it does not seem to be an intrinsic part of the maturation process.
+
+So what?
+
+Through thinking about this tweet, and writing this blog post, I’ve had to think through the development process, and attempt to discretize what can be a very fluid thing into defined steps. I think that’s helped me better understand what the process actually is.
