@@ -1,16 +1,4 @@
 Blog post ideas 
-What would TRL for software look like? Inspired by https://twitter.com/tectonic/status/1158478812801224704?s=21 use https://keitaito.com/blog/2017/01/20/embedding-tweets-in-github-pages.html to embed tweet
-NASA TRL approach doesn’t really work for software because high level is still super experimental. Not very agile, proceeds/fails very slowly. Software model moves somewhat faster, and more in line with agile principles 
-TRL | NASA | Software 
-1 | basic principle reported | software need identified 
-2 | tech concept or application formulated | data processing, control flow paths determined
-3 | proof of concept in lab | software product developed to point where code review is viable 
-4 | component validation in lab environment | development effort is feature complete 
-5 | component validation in relevant environment | unit testing 
-6 | system validation in relevant environment | integration testing
-7 | prototype demo in space | feature acceptance testing
-8 | flight qualification through test and demo | software release
-9 | flight proven through successful ops | software performed nominally in operational context AND incremental update/maintenance release is at software TRL 1 (software is a cyclical process, code good enough that can be modified for next version instead of tossed)
 
 Something about visualizing data using python and asteroid database api (http://www.asterank.com/api) 
 
