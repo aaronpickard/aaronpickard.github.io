@@ -9,7 +9,7 @@ What would Technology Readiness Levels (TRLs) in the software world look like?
 
 First, what is a TRL? It is a metric used by NASA to assess how well-developed a technology is. They even have a handy reference chart for it! (embed image, cite nasa - https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.htm). 
 
-The system works well for NASA, and for the Department of Defense. However, I do not think that the metric works particularly well for software outside of these two organizations (and supporting contractors), because the metric does not consider the cyclical nature of software development, as opposed to hardware products which are more frequently either one-offs, or several copies of the same design with no incremental improvement. FURTHERMORE, 
+The system works well for NASA, and for the Department of Defense (which uses a slightly different system). However, I do not think that the metric works particularly well for software outside of these two organizations (and supporting contractors), because the metric does not consider the cyclical nature of software development, as opposed to hardware products which are more frequently either one-offs, or several copies of the same design with no incremental improvement. 
 
 NASA product development tends to take longer than commercial software development, which is more likely to be managed according to agile development principles. These principles enable products to succeed, or fail, much more quickly. While TRLs could work for software (which is a technology), it should be possible to create a more precise metric to assess the readiness of software, given how much more limited in scope “software” is than “technology.”
 
@@ -25,7 +25,9 @@ TRL/SRL | NASA | Commercial Software
 8 | flight qualification through test and demo | software release to operational environment
 9 | flight proven through successful ops | software performed nominally in operational context AND incremental update/maintenance release is at software TRL 1 (software is a cyclical process, code good enough that can be modified for next version instead of tossed)
 
-SRL 1 is that a need for a product is identified. This is as opposed to TRL 1, which is the reporting of a principle, because software development in the commercial sector seems to me to much more commonly apply existing technological frameworks in new contexts than introduce new contexts. So the TRL 1 definition does not work. What should replace it? In agile decelopment, everything is driven by the user’s needs, so it seems...logical...that the identification of a need is the first step in the readiness of a software product.
+What is the difference between TRLs and Software Readiness Levels (SRLs)?
+
+SRL 1 is that a need for a product has been identified. This is as opposed to TRL 1, which is the reporting of a principle, because software development in the commercial sector seems to me to much more commonly apply existing technological frameworks in new contexts than introduce new contexts. So the TRL 1 definition does not work. What should replace it? In agile decelopment, everything is driven by the user’s needs, so it seems...logical...that the identification of a need is the first step in the readiness of a software product.
 
 SRL 2 is like TRL 2 in that both of them define what will be created later in the development pipeline. SRL 2, defined by understanding a product’s control flow and data processing path, is actually slightly more advanced than TRL 2, which seems to require ideation of an use for the technology.
 
