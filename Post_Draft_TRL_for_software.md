@@ -2,6 +2,8 @@ What would TRL for software look like?
 
 I saw this interesting tweet a while ago, and I haven’t been able to stop thinking about it. (embed the tweet here - https://twitter.com/tectonic/status/1158478812801224704?s=21 and use https://keitaito.com/blog/2017/01/20/embedding-tweets-in-github-pages.html to embed it )
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SomeText Here <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">https://twitter.com/tectonic/status/1158478812801224704?s=20</a></p>&mdash; Andrew Cantino (@tectonic) <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">August 5, 2019</a></blockquote>
+
 What would Technology Readiness Levels (TRLs) in the software world look like? 
 
 First, what is a TRL? It is a metric used by NASA to assess how well-developed a technology is. They even have a handy reference chart for it! (embed image, cite nasa - https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.htm). 
