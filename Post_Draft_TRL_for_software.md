@@ -2,8 +2,10 @@ What would TRL for software look like?
 
 I saw this interesting tweet a while ago, and I haven’t been able to stop thinking about it. (embed the tweet here - https://twitter.com/tectonic/status/1158478812801224704?s=21 and use https://keitaito.com/blog/2017/01/20/embedding-tweets-in-github-pages.html to embed it )
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">SomeText Here <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">https://twitter.com/tectonic/status/1158478812801224704?s=20</a></p>&mdash; Andrew Cantino (@tectonic) <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">August 5, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The software industry needs an equivalent of NASA’s TRL metric. https://esto.nasa.gov/files/trl_definitions.pdf <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">https://twitter.com/tectonic/status/1158478812801224704?s=20</a></p>&mdash; Andrew Cantino (@tectonic) <a href="https://twitter.com/tectonic/status/1158478812801224704?s=20">August 5, 2019</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
 
 What would Technology Readiness Levels (TRLs) in the software world look like? 
 
