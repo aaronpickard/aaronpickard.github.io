@@ -7,9 +7,12 @@ I saw this interesting tweet a while ago, and I haven’t been able to stop thin
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
 
+  <p class="TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text" lang="en" data-aria-label-part="0">The software industry needs an equivalent of NASA’s TRL metric. <a href="https://t.co/Ldp3cbDUBW" rel="nofollow noopener" dir="ltr" data-expanded-url="https://esto.nasa.gov/files/trl_definitions.pdf" class="twitter-timeline-link" target="_blank" title="https://esto.nasa.gov/files/trl_definitions.pdf" ><span class="tco-ellipsis"></span><span class="invisible">https://</span><span class="js-display-url">esto.nasa.gov/files/trl_defi</span><span class="invisible">nitions.pdf</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a></p>
+
+
 What would Technology Readiness Levels (TRLs) in the software world look like? 
 
-First, what is a TRL? It is a metric used by NASA to assess how well-developed a technology is. They even have a handy reference chart for it! (embed image, cite nasa - https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.htm). 
+First, what is a TRL? It is a metric used by NASA to assess how well-developed a technology is. Mr. Cantino provides a <a href="https://esto.nasa.gov/files/trl_definitions.pdf">handy definition chart </a> from NASA that explains really clearly what these things are. 
 
 The system works well for NASA, and for the Department of Defense (which uses a slightly different system). However, I do not think that the metric works particularly well for software outside of these two organizations (and supporting contractors), because the metric does not consider the cyclical nature of software development, as opposed to hardware products which are more frequently either one-offs, or several copies of the same design with no incremental improvement. 
 
